@@ -1,5 +1,5 @@
 # AHK_shortcut
-<h2>Pictures will be uploaded for clarification soon </h2> <br>
+<h2>Shortcuts </h2> <br>
 This is my window's shortcut using ahk whith Corsair mouse M55 <br>
 
 
