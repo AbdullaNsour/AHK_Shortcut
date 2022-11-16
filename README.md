@@ -1,6 +1,6 @@
 # AHK_shortcut
 <h2>Shortcuts </h2> <br>
-This is my window's shortcut using ahk with Corsair mouse M55 <br>
+This is my window's shortcut using ahk with Corsair devices <br>
 <h2>First thing first</h2>
 <h3>1- bin</h3>
 <p>This file works alongside with Clipping tool.ahk, as this tool allows you to copy the words in the captured image when you click on OCR </p>
